@@ -1,9 +1,10 @@
-package zianaaulia.polbeng.ac.id.jasaonline
+package zianaaulia.polbeng.ac.id.jasaonline.activities
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
+import zianaaulia.polbeng.ac.id.jasaonline.R
 import zianaaulia.polbeng.ac.id.jasaonline.helpers.Config
 
 class SplashScreenActivity : AppCompatActivity() {
