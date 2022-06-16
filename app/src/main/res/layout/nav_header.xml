@@ -9,13 +9,6 @@
     android:paddingStart="15dp"
     android:paddingEnd="15dp"
     android:paddingBottom="15dp">
-    <ImageView
-        android:id="@+id/imageView"
-        android:layout_width="75dp"
-        android:layout_height="75dp"
-        app:srcCompat="@drawable/ic_launcher_foreground"
-        android:layout_marginBottom="10dp"
-        android:contentDescription="@string/image_header" />
     <TextView
         android:id="@+id/tvNamaHeader"
         android:layout_width="match_parent"
@@ -31,4 +24,12 @@
         android:text="@string/email_header"
         android:textColor="@android:color/white"
         android:textSize="16sp"/>
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        app:srcCompat="@drawable/technology"
+        android:layout_marginBottom="10dp"
+        android:contentDescription="@string/image_header" />
 </LinearLayout>
