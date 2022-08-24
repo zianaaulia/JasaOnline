@@ -3,13 +3,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".BerandaFragment">
+    android:padding="10dp"
+    tools:context=".fragments.BerandaFragment">
     <!-- TODO: Update blank fragment layout -->
-    <TextView
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rvData"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/fragment_beranda"
-        android:textAlignment="center"
-        android:textSize="20sp"
-        android:layout_centerInParent="true"/>
+        android:layout_height="match_parent"/>
 </RelativeLayout>

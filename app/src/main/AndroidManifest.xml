@@ -2,13 +2,27 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="zianaaulia.polbeng.ac.id.jasaonline">
 
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.JasaOnline">
+        android:theme="@style/Theme.JasaOnline"
+        android:usesCleartextTraffic="true">
+        <activity
+            android:name=".activities.EditProfileActivity"
+            android:label="Ubah Profile"
+            android:parentActivityName=".activities.EditProfileActivity" />
+        <activity
+            android:name=".activities.RegisterActivity"
+            android:label="Daftar Akun"
+            android:parentActivityName=".activities.RegisterActivity" />
+        <activity
+            android:name=".activities.LoginActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".activities.SplashScreenActivity"
             android:exported="true"
@@ -21,8 +35,7 @@
         </activity>
         <activity
             android:name=".activities.MainActivity"
-            android:theme="@style/AppTheme.NoActionBar">
-        </activity>
+            android:theme="@style/AppTheme.NoActionBar" />
     </application>
 
 </manifest>

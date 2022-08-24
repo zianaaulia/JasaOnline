@@ -3,12 +3,24 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/KULIAH/JasaOnline/app/src/main/res/drawable/button_style1.xml" value="0.1" />
+        <entry key="..\:/KULIAH/JasaOnline/app/src/main/res/drawable/button_style2.xml" value="0.1" />
+        <entry key="..\:/KULIAH/JasaOnline/app/src/main/res/drawable/button_style3.xml" value="0.1" />
+        <entry key="..\:/KULIAH/JasaOnline/app/src/main/res/drawable/button_style4.xml" value="0.1" />
+        <entry key="..\:/KULIAH/JasaOnline/app/src/main/res/drawable/edittextstyle1.xml" value="0.1" />
+        <entry key="..\:/KULIAH/JasaOnline/app/src/main/res/drawable/edittextstyle2.xml" value="0.1" />
         <entry key="..\:/KULIAH/JasaOnline/app/src/main/res/drawable/ic_baseline_exit_to_app_24.xml" value="0.1" />
         <entry key="..\:/KULIAH/JasaOnline/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1" />
         <entry key="..\:/KULIAH/JasaOnline/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.1" />
         <entry key="..\:/KULIAH/JasaOnline/app/src/main/res/drawable/ic_baseline_work_24.xml" value="0.1" />
+        <entry key="..\:/KULIAH/JasaOnline/app/src/main/res/drawable/ic_icons8_facebook.xml" value="0.1" />
+        <entry key="..\:/KULIAH/JasaOnline/app/src/main/res/drawable/ic_send_white_24.xml" value="0.1" />
+        <entry key="..\:/KULIAH/JasaOnline/app/src/main/res/drawable/linestyle.xml" value="0.1" />
         <entry key="..\:/KULIAH/JasaOnline/app/src/main/res/drawable/repeat_background.xml" value="0.1" />
+        <entry key="..\:/KULIAH/JasaOnline/app/src/main/res/layout/activity_edit_profile.xml" value="0.25" />
+        <entry key="..\:/KULIAH/JasaOnline/app/src/main/res/layout/activity_login.xml" value="0.18" />
         <entry key="..\:/KULIAH/JasaOnline/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/KULIAH/JasaOnline/app/src/main/res/layout/activity_register.xml" value="0.22" />
         <entry key="..\:/KULIAH/JasaOnline/app/src/main/res/layout/activity_splash_screen.xml" value="0.1" />
         <entry key="..\:/KULIAH/JasaOnline/app/src/main/res/layout/content_main.xml" value="0.182518115942029" />
         <entry key="..\:/KULIAH/JasaOnline/app/src/main/res/layout/fragment_beranda.xml" value="0.1" />
